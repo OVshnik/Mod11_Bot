@@ -49,7 +49,7 @@ namespace VoiceTexterBot
             return new AppSettings()
             {
                 DownloadsFolder = "C:\\Users\\MSI\\Downloads",
-                BotToken = "6478933763:AAEV2DCIx7QJ80kW_eEK9UVCtgRp1VIxyOg",
+                BotToken = "...",
             };
         }
     }
